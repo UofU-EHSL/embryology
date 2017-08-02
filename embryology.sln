@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "embryology", "Assembly-CSharp.csproj", "{C4BDF1DF-F4D1-411D-BB55-EAEAF0B7CFFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "embryology", "Assembly-CSharp-Editor.csproj", "{4E63FB19-EA7B-B9D2-5D13-A0150CCA86A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4BDF1DF-F4D1-411D-BB55-EAEAF0B7CFFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4BDF1DF-F4D1-411D-BB55-EAEAF0B7CFFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4BDF1DF-F4D1-411D-BB55-EAEAF0B7CFFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4BDF1DF-F4D1-411D-BB55-EAEAF0B7CFFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E63FB19-EA7B-B9D2-5D13-A0150CCA86A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E63FB19-EA7B-B9D2-5D13-A0150CCA86A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E63FB19-EA7B-B9D2-5D13-A0150CCA86A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E63FB19-EA7B-B9D2-5D13-A0150CCA86A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
