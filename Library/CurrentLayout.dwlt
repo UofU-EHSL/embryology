@@ -386,19 +386,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/models/Materials
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/models/Materials
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: /Users/benjamin/unity/embryology/embryology
+  m_LastProjectPath: /Users/benjamin/unity/embryology
   m_IsLocked: 1
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 30490000
-    m_LastClickedID: 18736
-    m_ExpandedIDs: 0e26000094370000c03700002249000000ca9a3bffffff7f
+    m_SelectedIDs: 902a0000
+    m_LastClickedID: 10896
+    m_ExpandedIDs: 00000000902a0000ba2b00002a2d0000a02d000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -426,7 +426,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 20920000
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000902a0000ba2b00002a2d0000a02d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -453,7 +453,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c62300004a960000c646000032490000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -544,7 +544,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: b675ffff1c82ffff06bcffff26c9ffff76fbffff0000000058400000
+    m_ExpandedIDs: b0fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -626,7 +626,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.050879903, y: 0.9490921, z: -0.2160357, w: 0.22352652}
     speed: 2
-    m_Value: {x: 0.050879903, y: 0.9490921, z: -0.2160357, w: 0.22352652}
+    m_Value: {x: 0.050879903, y: 0.9490921, z: -0.2160357, w: 0.22352654}
   m_Size:
     m_Target: 11.496694
     speed: 2
@@ -675,10 +675,10 @@ MonoBehaviour:
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
-    m_HBaseRangeMin: -275
-    m_HBaseRangeMax: 275
-    m_VBaseRangeMin: -158.5
-    m_VBaseRangeMax: 158.5
+    m_HBaseRangeMin: -550
+    m_HBaseRangeMax: 550
+    m_VBaseRangeMin: -317
+    m_VBaseRangeMax: 317
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -697,7 +697,7 @@ MonoBehaviour:
       y: 17
       width: 1100
       height: 634
-    m_Scale: {x: 2, y: 2}
+    m_Scale: {x: 1, y: 1}
     m_Translation: {x: 550, y: 317}
     m_MarginLeft: 0
     m_MarginRight: 0
@@ -705,15 +705,15 @@ MonoBehaviour:
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -275
-      y: -158.5
-      width: 550
-      height: 317
+      x: -550
+      y: -317
+      width: 1100
+      height: 634
     m_MinimalGUI: 1
-  m_defaultScale: 2
+  m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 1
-  m_LastWindowPixelSize: {x: 2200, y: 1302}
+  m_LastWindowPixelSize: {x: 1100, y: 651}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
