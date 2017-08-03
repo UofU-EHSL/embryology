@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/scenes/interactionSystems.unity
+- path: Assets/VRTK/Examples/028_CameraRig_RoomExtender.unity
   isLoaded: 1
   isActive: 1
